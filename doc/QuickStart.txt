@@ -1,0 +1,26 @@
+Quick Start Guide
+
+
+* Use Admin User to Create Lecturer Accounts
+
+   Account: Admin
+   Password: admin@123
+
+* Create a Lecturer account
+
+* Login to Lecturer account
+
+* Create a course ( You can determine whether or not students need approval before they can join the course. )
+
+* As Student 
+
+ You can Sign up with your Student ID, then provide your email address and password.
+
+* Browse Courses by Deartment
+
+  - Or Search by Course Course
+  - Join Course
+  - You can see the list of your courses in Course Home page
+
+
+

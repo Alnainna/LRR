@@ -1,0 +1,11 @@
+
+/* this css class is used to enable copying in text with the mouse. */
+.text-selectable {
+     
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    cursor:auto
+  
+}

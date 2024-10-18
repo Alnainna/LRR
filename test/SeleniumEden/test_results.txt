@@ -1,0 +1,6 @@
+Sign-up failed. Checking if form values are retained...
+Second sign-up attempt failed. Further investigation needed.
+Retained form values after second attempt:
+Full Name: John Doe
+Email: john.doe@example.com
+Modified Student ID: 87654321

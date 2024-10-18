@@ -1,0 +1,2 @@
+Test Case 1 - Teecloudy - Ashly Course Testing -- JAMES: Result=Passed, Expected Result=Ta assigned successfully., Actual Alert Text=TA assigned successfully.
+Test Case 2 - P.M2019 - Project Management -- DIEGO: Result=Passed, Expected Result=The selected TA is already assigned to this course., Actual Alert Text=The selected TA is already assigned to this course.
